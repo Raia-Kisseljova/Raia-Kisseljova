@@ -24,7 +24,6 @@
 ![MongoDB](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-mongodb-96.png)
 ![Postresql](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-postgresql-96.png)
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/Ze44chcCSUpyVN1gmQ/video" width="480"></iframe></div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raia-Kisseljova)](https://github.com/anuraghazra/github-readme-stats)
