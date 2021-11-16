@@ -1,4 +1,6 @@
-### My name is Raia and I am a fullstack web developer
+### Fullstack Web Developer 🦄
+
+
 
 ![I am a fullstack web developer](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/banner.png)
 
