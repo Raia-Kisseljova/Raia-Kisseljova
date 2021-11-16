@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raia-Kisseljova)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raia-Kisseljova)  
-
 <!--
 **Raia-Kisseljova/Raia-Kisseljova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
