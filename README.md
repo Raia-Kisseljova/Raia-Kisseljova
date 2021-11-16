@@ -9,15 +9,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raia-Kisseljova&show_icons=true&theme=radical)
 
 ## Skills and Experience
-![Bootstrap](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-bootstrap-96.png)
-![CSS3](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-css3-96.png)
-![HTML5](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-html-5-96.png)
 ![Javascript](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-javascript-96.png)
-![MongoDB](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-mongodb-96.png)
-![Postresql](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-postgresql-96.png)
+![Typescript](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-typescript-96.png)
 ![React](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-react-native-96.png)
 ![Redux](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-redux-96.png)
-![Typescript](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-typescript-96.png)
+![HTML5](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-html-5-96.png)
+![CSS3](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-css3-96.png)
+![Bootstrap](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-bootstrap-96.png)
+![MongoDB](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-mongodb-96.png)
+![Postresql](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/icons8-postgresql-96.png)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raia-Kisseljova)](https://github.com/anuraghazra/github-readme-stats)
