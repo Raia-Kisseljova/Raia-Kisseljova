@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on my final project for Strive School
 - 🌱 I’m currently learning MERN stack, UX/UI, Figma 
+- I have a 🐧 adopted through WWF organisation and I am a RSPCA member
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raia-Kisseljova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raissa-kisseljova-b543a3215/) 
 
