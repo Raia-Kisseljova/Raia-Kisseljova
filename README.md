@@ -3,13 +3,13 @@
 ![I am a fullstack web developer](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/banner.png)
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raia-Kisseljova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raissa-kisseljova-b543a3215/) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raia-Kisseljova&show_icons=true&theme=synthwave)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raia-Kisseljova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raissa-kisseljova-b543a3215/)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raia-Kisseljova)](https://github.com/anuraghazra/github-readme-stats)
 
