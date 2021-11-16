@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![I am a fullstack web developer](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/banner.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raia-Kisseljova)](https://github.com/anuraghazra/github-readme-stats)
 
