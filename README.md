@@ -1,11 +1,11 @@
 ### Fullstack Web Developer 🦄
 
-- 🔭 I’m currently working on my final project for Strive School
-- 🌱 I’m currently learning MERN stack, UX/UI, Figma 
 
 
 ![I am a fullstack web developer](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/banner.png)
 
+- 🔭 I’m currently working on my final project for Strive School
+- 🌱 I’m currently learning MERN stack, UX/UI, Figma 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raia-Kisseljova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raissa-kisseljova-b543a3215/) 
 
