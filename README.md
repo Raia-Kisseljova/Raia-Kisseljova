@@ -1,5 +1,7 @@
 ### Fullstack Web Developer 🦄
 
+- 🔭 I’m currently working on my final project for Strive School
+- 🌱 I’m currently learning MERN stack, UX/UI, Figma 
 
 
 ![I am a fullstack web developer](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/banner.png)
