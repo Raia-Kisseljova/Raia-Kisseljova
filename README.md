@@ -1,5 +1,5 @@
 ### Fullstack Web Developer 🦄
-
+![parrot](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/6oa.gif)
 
 
 ![I am a fullstack web developer](https://github.com/Raia-Kisseljova/Raia-Kisseljova/blob/main/banner.png)
